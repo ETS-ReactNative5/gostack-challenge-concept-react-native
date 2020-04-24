@@ -1,3 +1,14 @@
+/**
+ * Project: Go Stack React Native Challenge Concept
+ * Author: Marcos Santos
+ * Date: April, 20, 2020.
+ * Description: This project aims to show the concepts
+ * and techniques presented and learned in the interface
+ * React Native training.
+ * File: App.js
+ * https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-react-native
+ */
+
 import React, { useEffect, useState } from "react";
 import api from './services/api';
 
