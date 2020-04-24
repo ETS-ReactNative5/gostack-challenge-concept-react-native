@@ -1,8 +1,8 @@
 <h4 align="center">
 
-   <h2># goStack-challenge-concept ReactJs </h2> 
+   <h2># goStack-challenge-concept React Native </h2> 
 </h4>
-<img width="20%" heidth="20%" src="https://github.com/maasantos10/goStack-challenge-concept-react/blob/master/assets/images/React.js_logo-512.png">
+<img width="20%" heidth="20%" src="https://github.com/maasantos10/gostack-challenge-concept-react-native/assets/images/React.js_logo-512.png">
 
 React Js frontend concepts.
 
@@ -12,9 +12,12 @@ React Js frontend concepts.
 
 
 <ul>
+
+<li><a href="https://facebook.github.io/react-native/" rel="nofollow">React-Native</a></li>
+<li><a href="https://code.visualstudio.com/" rel="nofollow">VS Code</a> with <a href="https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig" rel="nofollow">EditorConfig</a> and <a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint" rel="nofollow">ESLint</a></li>
 <!--
 <li><a href="https://expo.io/" rel="nofollow">Expo</a></li>
-<li><a href="https://facebook.github.io/react-native/" rel="nofollow">React-Native</a></li>
+
 <li><a href="https://kmagiera.github.io/react-native-gesture-handler/" rel="nofollow">React Native Gesture Handler</a></li>
 <li><a href="https://reactnavigation.org/" rel="nofollow">React Navigation</a></li>
 <li><a href="https://redux.js.org/" rel="nofollow">Redux</a></li>
@@ -25,7 +28,7 @@ React Js frontend concepts.
 <li><a href="https://expo.github.io/vector-icons/" rel="nofollow">@expo/vector-icons</a></li>
 <li><a href="https://docs.expo.io/versions/latest/sdk/linear-gradient/" rel="nofollow">expo-linear-gradient</a></li>
 <li><a href="https://github.com/facebook/prop-types">PropTypes</a></li>
-<li><a href="https://code.visualstudio.com/" rel="nofollow">VS Code</a> with <a href="https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig" rel="nofollow">EditorConfig</a> and <a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint" rel="nofollow">ESLint</a></li>
+
 -->
 </ul>
 
