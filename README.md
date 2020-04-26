@@ -8,7 +8,7 @@
 <br>
 React Js frontend concepts.
 <div>
-<img width="100%" heidth="100%" src="https://github.com/maasantos10/gostack-challenge-concept-react-native/blob/master/assets/images/challengeGoStackReactNative.gif">
+<img width="30%" heidth="30%" src="https://github.com/maasantos10/gostack-challenge-concept-react-native/blob/master/assets/images/challengeGoStackReactNative.gif">
   
 </div>
 
