@@ -23,8 +23,8 @@ const repositoryId = 'd6e43105-a559-45b7-8fd7-53416b415741';
 apiMock.onGet("repositories").reply(200, [
   {
     id: repositoryId,
-    title: "Desafio React Native",
-    url: "https://github.com/josepholiveira",
+    title: "Challenge React Native",
+    url: "https://github.com/maasantos10",
     techs: ["React Native", "Node.js"],
     likes: 0,
   },
@@ -65,14 +65,14 @@ describe("Likes", () => {
 
     await actWait();
 
-    expect(getByTestId(`repository-likes-${repositoryId}`)).toHaveTextContent("1 curtida");
+    expect(getByTestId(`repository-likes-${repositoryId}`)).toHaveTextContent("1 like");
 
     apiMock
       .onPost(`repositories/${repositoryId}/like`)
       .reply(200, {
         id: repositoryId,
-        title: "Desafio React Native",
-        url: "https://github.com/josepholiveira",
+        title: "Challenge React Native",
+        url: "https://github.com/maasantos10",
         techs: ["React Native", "Node.js"],
         likes: 2,
       });
@@ -81,6 +81,6 @@ describe("Likes", () => {
 
     await actWait();
 
-    expect(getByTestId(`repository-likes-${repositoryId}`)).toHaveTextContent("2 curtidas");
+    expect(getByTestId(`repository-likes-${repositoryId}`)).toHaveTextContent("2 likes");
   });
 });
